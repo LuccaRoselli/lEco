@@ -1,0 +1,7 @@
+main: com.devlucca.leconomy.Main
+name: lEconomy
+version: 0.1
+depend: [Vault]
+softdepend: [PlaceholderAPI]
+commands:
+  money:

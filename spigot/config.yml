@@ -1,0 +1,17 @@
+Licenca: '0000-0000-0000'
+#Configurações padrões do plugin
+Configuracoes:
+    #Prefixo que aparece antes de todas mensagens.
+    Prefixo: '&9[SeuServidor] '
+    #Valor que o player iniciará de money, caso não tiver uma conta criada ainda.
+    Money_inicial: 30.0
+#Configure o uso do SQL.
+MySQL:
+    #true = MySQL 
+    #false = SQLite
+    ativo: false
+    ip: 192.168.0.1
+    porta: 3306
+    usuario: teste
+    senha: teste
+    database: lEconomy
